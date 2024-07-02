@@ -119,8 +119,10 @@ In state S6(110);
        2. MT = RED, implies, RYG value = 100,
        3. M2 = RED, implies, RYG value = 100 and,
        4. S = YELLOW, implies, RYG value = 010.
-..................................................................................
+................................................................................................................................................................................................................................................
+
 Result
+
 In this model we have observed various stages which describes about every signals. For example, Consider that at first stage (north-south end) signals gives some indication. Then, the signal is red that means signal at east-west side gives a green indication and traffic moves to their respective direction. Then after some delay yellow signal is obtain at east-west side and after the red signal arrives at the same time at the north-south end red signal goes off and green signal gets on and traffic moves to their particular direction. In this way process continues in the loop every day.
 
 The modern ways of multi-way traffic management improves the traffic condition up to a large extent. Traffic intensity is sensed and accordingly time is allotted for traffic to pass. Verilog HDL is used to circuit description, code is generated which is simulated using Xilinx14.5.
